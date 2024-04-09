@@ -3,11 +3,6 @@
 
 Este repositório contém uma coleção de exercícios realizados na disciplina de Tópicos Especiais em Sistemas para Internet - 1, utilizando PHP.
 
-## Estrutura do Repositório
-
-- **/exercicios/**
-  - Contém os exercícios práticos desenvolvidos ao longo da disciplina.
-
 ## Conteúdo
 
 Os exercícios exploram diversos tópicos importantes para o desenvolvimento web com PHP, incluindo:
